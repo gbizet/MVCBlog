@@ -643,5 +643,8 @@
   <Target Name="BeforeBuild">
   </Target>
   <Target Name="AfterBuild">
-  </Target> -->
+  </Target>
+  -->
+   <Target Name="BeforeGenerateProjectPriFile">
+  </Target>
 </Project>
